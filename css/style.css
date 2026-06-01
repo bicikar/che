@@ -71,9 +71,9 @@ ul {
 }
 
 .hero__logo {
-    width: 280px;
+    width: 420px;
     height: auto;
-    margin: 0 auto var(--spacing-md);
+    margin: 0 auto var(--spacing-lg);
 }
 
 .hero__title {
@@ -293,7 +293,7 @@ ul {
 /* ===== Responsive ===== */
 @media (max-width: 768px) {
     .hero__logo {
-        width: 220px;
+        width: 280px;
     }
 
     .guide__content {
@@ -321,7 +321,7 @@ ul {
     }
 
     .hero__logo {
-        width: 180px;
+        width: 220px;
     }
 
     .about__badge {
